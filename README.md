@@ -20,4 +20,4 @@ M.A. Economics candidate at UNLV focused on analytics, forecasting, econometrics
 I’m especially interested in analyst roles involving forecasting, business analytics, risk, and applied quantitative decision-making.
 
 ## Links
-- LinkedIn: [add your LinkedIn URL here]
+- LinkedIn: www.linkedin.com/in/chadasindraza
