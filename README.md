@@ -1,16 +1,23 @@
-## Hi there 👋
+# Chad Asindraza
 
-<!--
-**casindra/casindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.A. Economics candidate at UNLV focused on analytics, forecasting, econometrics, and data-driven decision support.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- R
+- Stata
+- Excel
+- Time Series Forecasting
+- Econometrics
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Emergency Food Network Demand Analysis & Forecasting
+- Airline Revenue Passenger Miles Forecasting
+
+## Interests
+I’m especially interested in analyst roles involving forecasting, business analytics, risk, and applied quantitative decision-making.
+
+## Links
+- LinkedIn: [add your LinkedIn URL here]
