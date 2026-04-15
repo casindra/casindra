@@ -1,6 +1,6 @@
 # Chad Asindraza
 
-M.A. Economics candidate at UNLV focused on analytics, forecasting, econometrics, and applied decision support.
+M.A. Economics candidate at UNLV building projects in analytics, forecasting, econometrics, and applied decision support.
 
 ## Skills
 - Python
