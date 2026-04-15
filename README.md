@@ -13,11 +13,11 @@ M.A. Economics candidate at UNLV focused on analytics, forecasting, econometrics
 - Data Analysis
 
 ## Projects
-- [Emergency Food Network Demand Analysis & Forecasting](https://github.com/casindra/NAME-OF-REPO)
-- [Airline RPM Forecasting](https://github.com/casindra/NAME-OF-REPO)
+- [Emergency Food Network Demand Analysis & Forecasting](https://github.com/casindra/efn-demand-analysis-forecasting)
+- [Airline RPM Forecasting](https://github.com/casindra/american-airlines-rpm-forecasting)
   
 ## Interests
 I’m especially interested in analyst roles involving forecasting, pricing, business analytics, risk, and applied quantitative decision-making.
 
 ## Links
-- LinkedIn: www.linkedin.com/in/chadasindraza
+- [LinkedIn](https://www.linkedin.com/in/chadasindraza)
