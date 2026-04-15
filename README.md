@@ -11,12 +11,10 @@ M.A. Economics candidate at UNLV building projects in analytics, forecasting, ec
 - Econometrics
 - Time Series Forecasting
 - Data Analysis
-## Projects
-- [Emergency Food Network Demand Analysis & Forecasting](LINK)  
-  Forecasted service demand and analyzed utilization patterns to inform resource allocation.
 
-- [American Airlines RPM Forecasting](LINK)  
-  Time series modeling of airline passenger demand using historical RPM data.
+## Projects
+- [Emergency Food Network Demand Analysis & Forecasting](https://github.com/casindra/efn-demand-analysis-forecasting)
+- [American Airlines RPM Forecasting](https://github.com/casindra/american-airlines-rpm-forecasting)
   
 ## Interests
 I’m especially interested in analyst roles involving forecasting, pricing, business analytics, risk, and applied quantitative decision-making.
