@@ -13,9 +13,9 @@ M.A. Economics candidate at UNLV focused on analytics, forecasting, econometrics
 - Data Analysis
 
 ## Projects
-- [Emergency Food Network Demand Analysis & Forecasting](LINK)
-- [Airline RPM Forecasting](LINK)
-
+- [Emergency Food Network Demand Analysis & Forecasting](https://github.com/casindra/NAME-OF-REPO)
+- [Airline RPM Forecasting](https://github.com/casindra/NAME-OF-REPO)
+  
 ## Interests
 I’m especially interested in analyst roles involving forecasting, pricing, business analytics, risk, and applied quantitative decision-making.
 
